@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'o2html'
-  s.version = '0.1.0'
+  s.version = '0.1.1'
   s.summary = 'Experimental gem under development. Transforms custom HTML objects to HTML elements and JavaScript objects.'
   s.authors = ['James Robertson']
   s.files = Dir['lib/o2html.rb']

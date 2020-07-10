@@ -5,9 +5,7 @@
 
 
 require 'rexle'
-#require 'html-to-css'
-require 'requestor'
-eval Requestor.read('http://a0.jamesrobertson.eu/rorb/r/ruby'){|x| x.require 'html-to-css' }
+require 'html-to-css'
 
 
 
